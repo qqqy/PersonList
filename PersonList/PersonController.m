@@ -4,7 +4,9 @@
 //
 //  Created by Joshua Howland on 1/27/15.
 //  Copyright (c) 2015 DevMountain. All rights reserved.
-//
+//  Shamelessly Seized by DavidT for this mini project.
+// arr mateys
+// (I understand exactly none of this)
 
 #import "PersonController.h"
 
